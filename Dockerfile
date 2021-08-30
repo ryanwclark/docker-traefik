@@ -2,7 +2,7 @@ FROM ryanwclark/alpine:3.14
 LABEL maintainer="Ryan Clark (github.com/ryanwclark)"
 
 ### Set Defaults
-ENV TRAEFIK_VERSION=2.4.9 \
+ENV TRAEFIK_VERSION=2.4.13 \
     TRAEFIK_MIGRATION_TOOL_VERSION=0.13.4 \
     TRAEFIK_CERT_DUMPER_VERSION=2.7.4 \
     ENABLE_SMTP=FALSE
