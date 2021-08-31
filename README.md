@@ -1,13 +1,13 @@
 # docker-traefik
 
 
-[![GitHub release](https://img.shields.io/github/v/tag/ryanwclark/docker-traefik?style=flat-square)](https://github.com/ryanwclark/docker-traefik/releases/latest)
 [![Build Status](https://img.shields.io/github/workflow/status/ryanwclark/docker-traefik/build?style=flat-square)](https://github.com/ryanwclark/docker-traefik/actions?query=workflow%3Abuild)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/traefik.svg?style=flat-square&logo=docker)](https://hub.docker.com/ryanwclark/traefik/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/traefik.svg?style=flat-square&logo=docker)](https://hub.docker.com/ryanwclark/traefik/)
 
 
 * * *
+
 ## About
 
 This will build an image for [Traefik](https://traefik.io/) a modernized proxy built in GO built for containerized service deployment.
